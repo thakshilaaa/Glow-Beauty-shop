@@ -1,0 +1,186 @@
+﻿PROJECT CLOSURE REPORT
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 4
+Version       : 1.0
+Status        : CLOSED
+
+CONTENTS
+  1. Project Summary
+  2. Objectives Achieved
+  3. Deliverables Delivered
+  4. Schedule Performance
+  5. Scope Performance
+  6. Quality Performance
+  7. Budget Performance
+  8. Risk Performance
+  9. Change Summary
+  10. Stakeholder Outcomes
+  11. Lessons Learned
+  12. Closure Statement
+  13. Sign-Off
+
+1. PROJECT SUMMARY
+
+   A responsive website prototype for a beauty and cosmetics
+   shop was planned, designed, developed, tested and deployed
+   over four weeks using an Agile-inspired approach. The
+   project also produced a complete set of project management
+   documents and an automated test script, all maintained in
+   a GitHub repository.
+
+2. OBJECTIVES ACHIEVED
+
+   All ten project objectives were achieved within the planned
+   four-week timeline:
+     - Business requirements understood
+     - Stakeholders identified
+     - Requirements gathered and documented
+     - Scope and objectives defined
+     - Four-week schedule developed
+     - Risks identified and managed
+     - Responsive prototype designed and developed
+     - Progress monitored against schedule
+     - Testing and quality evaluation conducted
+     - Documentation and final evaluation completed
+
+3. DELIVERABLES DELIVERED
+
+   Website
+     - index.html        (homepage and all sections)
+     - css/style.css     (responsive styling)
+     - js/script.js      (filter and wishlist)
+     - images/products/  (12 SVG product images)
+
+   Documentation
+     - 16 project management files in docs/
+     - Automated test script (test-website.ps1)
+     - README.txt
+
+   Deployment
+     - GitHub repository with organised structure
+     - GitHub Pages deployment
+
+4. SCHEDULE PERFORMANCE
+
+   Milestone                         Planned          Actual       Status
+   M1 Project Initiation Completed   End of Week 1    End of W1    On time
+   M2 Requirements and Planning      End of Week 2    End of W2    On time
+   M3 Website Prototype Completed    End of Week 3    End of W3    On time
+   M4 Testing and Closure Completed  End of Week 4    End of W4    On time
+
+   Overall schedule variance: zero days.
+
+   Minor deviation noted: Figma wireframes were not produced
+   as separate deliverables. Design was implemented directly
+   in code to protect the timeline. Logged as deviation C-06
+   in the Change Log.
+
+5. SCOPE PERFORMANCE
+
+   In-scope items delivered in full:
+     - Homepage
+     - Product catalogue
+     - About and Contact sections
+     - Responsive design
+     - Category filter
+     - Basic accessibility
+
+   Bonus items added (documented in Change Log):
+     - Shop Highlights section
+     - Customer testimonials (sample)
+     - Newsletter signup (front-end only)
+     - Floating WhatsApp button
+     - Wishlist hearts
+
+   Deferred (unchanged from original plan):
+     - Payment gateway
+     - Customer accounts
+     - Admin dashboard
+     - Delivery tracking
+     - Order management
+
+   Scope delivered: 100 percent of agreed scope plus five
+   bonus UI features.
+
+6. QUALITY PERFORMANCE
+
+   Automated test results (docs/13-Test-Report.txt):
+     - Total test cases : 17
+     - Passed           : 17
+     - Failed           : 0
+     - Pass rate        : 100 percent
+
+   Manual verification performed in Week 3 on Chrome, Edge
+   and Firefox at 375px, 768px and 1920px widths.
+
+   No critical defects remain open.
+
+7. BUDGET PERFORMANCE
+
+   Estimated budget  : LKR 500
+   Actual cost       : LKR 0
+   Variance          : Under budget by LKR 500 (100 percent saving)
+
+   Reason: all required tools were free. No paid services
+   used.
+
+8. RISK PERFORMANCE
+
+   R01  Shop information delayed     Open          Documented as TBD
+   R02  Images unavailable           Closed        SVG placeholders created
+   R03  Branding not approved        Open          Placeholder brand Glow
+   R04  Scope expansion              Monitoring    Bonus items logged
+   R05  Development delays           Closed        None occurred
+   R06  Technical problems           Closed        No issues
+   R07  Responsive issues            Closed        No issues in testing
+   R08  Timeline slippage            Closed        On time
+   R09  Data loss                    Closed        Git and GitHub used
+   R10  Accessibility gaps           Monitoring    Alt text present
+
+   R01 and R03 remain open because they depend on shop owner
+   confirmation, outside the project's control.
+
+9. CHANGE SUMMARY
+
+   Six changes logged (C-01 to C-06). All changes were
+   additive and within the four-week timeline. No change
+   extended the schedule or exceeded the budget.
+
+10. STAKEHOLDER OUTCOMES
+
+   - Project Manager (Nethmi Thakshila): delivered full scope
+   - Shop Owner (TBD): not formally engaged, content marked
+     TBD
+   - Academic Reviewer: full documentation and test evidence
+     available
+   - Website Visitors: working responsive prototype
+
+11. LESSONS LEARNED
+
+   See docs/15-Lessons-Learned.txt for the full reflection.
+   Key points:
+     - Information gathering is the biggest bottleneck.
+     - Automated testing reduces testing time and provides
+       objective evidence.
+     - Honest documentation of deviations strengthens the
+       report.
+
+12. CLOSURE STATEMENT
+
+   The project has been completed and closed. All sixteen
+   project management documents are finalised. The website
+   prototype is deployed, tested and ready for demonstration.
+   All deliverables defined in the Project Charter have been
+   delivered within the planned four-week timeline and within
+   budget.
+
+13. SIGN-OFF
+
+   Prepared by : Nethmi Thakshila
+   Role        : Project Manager / Project Lead
+   Signature   : _________________________
+   Date        : Week 4
+
+   Project status: CLOSED

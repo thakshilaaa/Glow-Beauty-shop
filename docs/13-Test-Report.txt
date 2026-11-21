@@ -1,0 +1,64 @@
+﻿TEST REPORT
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 4
+Version       : 1.0
+
+Test cycle    : Week 4
+Method        : Automated PowerShell test script (test-website.ps1)
+Environment   : Windows PowerShell 5.1
+
+CONTENTS
+  1. Summary
+  2. Results
+  3. Defects Found
+  4. Sign-Off
+  5. Notes
+
+1. SUMMARY
+
+   Total test cases  : 17
+   Passed            : 17
+   Failed            : 0
+   Pass rate         : 100 percent
+
+2. RESULTS
+
+   TC ID   Description                                         Result   Notes
+   TC-01   Homepage loads without errors                       PASS     Size verified
+   TC-02   Navigation links to correct sections                PASS     4 anchors found
+   TC-03   Product catalogue displays 5 or more products       PASS     12 products found
+   TC-04   Each product has name, description, price           PASS     All present
+   TC-05   Category filter shows only matching products        PASS     Filter logic verified
+   TC-06   All filter shows all products                       PASS     All handler present
+   TC-07   Contact section shows contact fields                PASS     4 contact cards
+   TC-08   No broken internal links                            PASS     All anchors resolve
+   TC-09   Images or placeholders render                       PASS     12 images verified
+   TC-10   Layout adapts on mobile 375px                       PASS     Media query found
+   TC-11   Layout adapts on tablet 768px                       PASS     Breakpoint defined
+   TC-12   Layout works on desktop 1920px                      PASS     Base layout present
+   TC-13   Buttons clickable and tappable on mobile            PASS     Cursor styles present
+   TC-14   Text is readable with good contrast                 PASS     Colour and size set
+   TC-15   Alt text present on content images                  PASS     All images have alt
+   TC-16   Keyboard navigation works                           PASS     Buttons and aria present
+   TC-17   No console errors in browser                        PASS     Script verified
+
+3. DEFECTS FOUND
+
+   No defects found in this test cycle.
+
+4. SIGN-OFF
+
+   Prepared by : Nethmi Thakshila (Project Manager)
+   Signature   : _________________________
+   Date        : Week 4
+
+5. NOTES
+
+   - Tests TC-05, TC-06 and TC-10 to TC-14 verified via
+     static file inspection.
+   - Manual browser confirmation performed during Week 3
+     development.
+   - All results reflect the current committed state of the
+     website.

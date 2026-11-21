@@ -1,0 +1,43 @@
+﻿BUDGET PLAN
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 2
+Version       : 1.0
+Currency      : LKR
+
+CONTENTS
+  1. Resource List
+  2. Budget Table
+  3. Notes
+
+1. RESOURCE LIST
+
+   - Laptop or desktop computer             (already owned)
+   - Internet connection                    (already available)
+   - VS Code (code editor)                  (free)
+   - Git (version control)                  (free)
+   - GitHub (repository and Pages hosting)  (free)
+   - Figma (wireframes, free plan)          (free)
+   - Browsers: Chrome, Edge, Firefox        (free)
+   - Text editor / Microsoft Word           (free or owned)
+
+2. BUDGET TABLE
+
+   Item                                Estimated (LKR)   Actual (LKR)   Notes
+   Domain name (optional)                            0              0   Not purchased
+   Hosting (GitHub Pages)                            0              0   Free
+   Design tool (Figma free plan)                     0              0   Free
+   Development tools                                 0              0   Free
+   Paid stock images                                 0              0   Placeholders used
+   Miscellaneous reserve                           500              0   Not used
+   Total                                           500              0
+
+3. NOTES
+
+   - Estimated figures include a small reserve for optional
+     costs.
+   - Actual figures are recorded as costs are incurred.
+   - No external funding is required for this project.
+   - If a paid domain or stock images are later approved,
+     update this file.

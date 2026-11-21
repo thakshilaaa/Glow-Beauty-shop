@@ -1,0 +1,64 @@
+﻿WORK BREAKDOWN STRUCTURE
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 2
+Version       : 1.0
+
+ID         Work Package / Activity
+1          PROJECT MANAGEMENT
+1.1        Initiation
+1.1.1      Define objectives
+1.1.2      Identify stakeholders
+1.1.3      Gather requirements
+1.1.4      Draft Project Charter
+1.1.5      Draft Business Case
+1.2        Planning
+1.2.1      Finalise requirements (FR / NFR / BR)
+1.2.2      Prepare WBS
+1.2.3      Develop project schedule
+1.2.4      Risk register
+1.2.5      Resource and budget plan
+1.2.6      Communication plan
+1.2.7      Finalise technical approach
+1.3        Monitoring and Control
+1.3.1      Weekly progress reports
+1.3.2      Track risks and changes
+1.3.3      Track schedule vs actuals
+1.4        Closure
+1.4.1      Final evaluation
+1.4.2      Lessons learned
+1.4.3      Closure report
+1.4.4      Final presentation
+
+2          DESIGN
+2.1        Wireframes for all pages
+2.2        Visual style guide (colours, typography)
+2.3        Responsive layout design
+
+3          DEVELOPMENT
+3.1        Project structure and Git setup
+3.2        Homepage
+3.3        Product catalogue
+3.4        About section
+3.5        Contact section
+3.6        Responsive CSS
+3.7        JavaScript interactions (filters, wishlist)
+
+4          TESTING
+4.1        Functional testing
+4.2        Responsive testing
+4.3        Usability and quality review
+4.4        Bug fixing
+
+5          DELIVERY
+5.1        GitHub deployment
+5.2        GitHub Pages deployment
+5.3        README and documentation finalisation
+
+WBS MAPPING TO PROJECT PHASES
+
+   Week 1   :  1.1  +  3.1
+   Week 2   :  1.2  +  2
+   Week 3   :  3.2 to 3.7  +  1.3
+   Week 4   :  4  +  5  +  1.4

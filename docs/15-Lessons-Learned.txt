@@ -1,0 +1,130 @@
+﻿LESSONS LEARNED
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 4
+Version       : 1.0
+
+CONTENTS
+  1. What Went Well
+  2. What Did Not Go Well
+  3. What To Do Differently Next Time
+  4. Transferable Skills Gained
+  5. Recommendations for Future Phases
+  6. Final Reflection
+
+1. WHAT WENT WELL
+
+   1.1  A structured four-week plan with clear weekly
+        milestones kept the project on track. No milestone
+        was missed.
+
+   1.2  Using Git and GitHub from Week 1 provided a reliable
+        history of every change, made the closure report
+        easier to compile and gave objective evidence of
+        progressive delivery.
+
+   1.3  Building the website with plain HTML, CSS and
+        JavaScript kept the code readable, portable and easy
+        to demonstrate.
+
+   1.4  Placeholder content and generated SVG images allowed
+        development to continue even though shop-specific
+        data was not yet available.
+
+   1.5  An automated test script made testing faster,
+        repeatable and objective. It also produced a real
+        Test Report that matches the code.
+
+   1.6  Bonus UI features (highlights, testimonials,
+        newsletter, WhatsApp float, wishlist) were delivered
+        within the existing timeline without scope creep
+        beyond the approved change log.
+
+2. WHAT DID NOT GO WELL
+
+   2.1  Shop-specific information was not available during
+        the project, which left several content items marked
+        TBD or sample.
+
+   2.2  Wireframes were originally planned as separate Figma
+        deliverables. This step was skipped in favour of
+        designing directly in code, reducing the visual
+        planning trail.
+
+   2.3  Testing was concentrated at the end of the project
+        rather than spread across each week.
+
+   2.4  Contact and brand elements remain unapproved, which
+        limits how the prototype can be used publicly
+        without further review.
+
+3. WHAT TO DO DIFFERENTLY NEXT TIME
+
+   3.1  Front-load stakeholder engagement in Week 1 with a
+        written information request and a firm response
+        deadline.
+
+   3.2  Reserve time for testing every week instead of
+        pushing it all into Week 4.
+
+   3.3  Produce at least light wireframes to document design
+        decisions and justify layout choices.
+
+   3.4  Keep a running decision log from day one.
+
+   3.5  Treat placeholder images and content as a formal
+        phase-two task so the handover to real content is
+        planned rather than ad hoc.
+
+4. TRANSFERABLE SKILLS GAINED
+
+   - Project planning and scheduling (WBS, timeline,
+     milestones)
+   - Risk identification, prioritisation and mitigation
+   - Requirements documentation (functional,
+     non-functional, business)
+   - Front-end development with semantic HTML, modern CSS
+     and JavaScript
+   - Version control with Git and remote collaboration on
+     GitHub
+   - Deployment using GitHub Pages
+   - Automated testing with PowerShell
+   - Professional technical writing (charter, business case,
+     closure report, test plan, test report)
+
+5. RECOMMENDATIONS FOR FUTURE PHASES
+
+   Phase 2 (Content)
+     - Confirm shop name, logo, branding, contact details
+       and product photography.
+
+   Phase 3 (E-commerce)
+     - Add product detail pages, cart, checkout and payment
+       integration.
+
+   Phase 4 (Engagement)
+     - Add WhatsApp inquiry, live chat and customer reviews.
+
+   Phase 5 (Operations)
+     - Add simple inventory and order management if the shop
+       adopts online sales.
+
+6. FINAL REFLECTION
+
+   This project achieved all ten objectives within the
+   planned four-week timeline and within budget. The strongest
+   outcomes were the working responsive prototype and the
+   breadth of project management documentation that supports
+   it.
+
+   The clearest improvement area is earlier stakeholder
+   engagement and earlier testing. Both are within the
+   Project Manager's control and should be prioritised in
+   future projects.
+
+   Overall, the project delivered a solid, honest and
+   defensible result that demonstrates practical project
+   management and front-end development skills.
+
+   Signed : Nethmi Thakshila (Project Manager)

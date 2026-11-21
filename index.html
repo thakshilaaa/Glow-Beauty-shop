@@ -1,0 +1,379 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Glow Beauty Shop — skincare, makeup, fragrance and haircare essentials. Sample prototype.">
+  <title>Glow Beauty Shop</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ============ NAVBAR ============ -->
+  <header class="navbar">
+    <a href="#home" class="logo">Glow <span>🌸</span></a>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#highlights">Why Us</a>
+      <a href="#products">Products</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section id="home" class="hero">
+    <div class="hero-text">
+      <span class="hero-tag">✦ New Collection 2025</span>
+      <h1>Your Beauty,<br><span>Our Passion.</span></h1>
+      <p>Discover skincare, makeup and fragrances crafted for you. Curated with love — delivered with care.</p>
+      <div class="hero-buttons">
+        <a href="#products" class="btn">Shop Now</a>
+        <a href="#about" class="btn btn-ghost">Learn More</a>
+      </div>
+      <div class="hero-stats">
+        <div><strong>12+</strong><span>Products</span></div>
+        <div><strong>4.8★</strong><span>Rated</span></div>
+        <div><strong>100%</strong><span>Cruelty Free</span></div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <img src="images/products/matte-lipstick.svg" alt="Matte Lipstick" class="float f1">
+      <img src="images/products/rose-cream.svg" alt="Rose Face Cream" class="float f2">
+      <img src="images/products/lavender-perfume.svg" alt="Lavender Perfume" class="float f3">
+    </div>
+  </section>
+
+  <!-- ============ HIGHLIGHTS ============ -->
+  <section id="highlights" class="highlights">
+    <div class="highlight">
+      <div class="hl-icon">🌿</div>
+      <h3>100% Natural</h3>
+      <p>Clean ingredients, no harsh chemicals.</p>
+    </div>
+    <div class="highlight">
+      <div class="hl-icon">🐰</div>
+      <h3>Cruelty Free</h3>
+      <p>Never tested on animals. Ever.</p>
+    </div>
+    <div class="highlight">
+      <div class="hl-icon">🚚</div>
+      <h3>Fast Delivery</h3>
+      <p>Island-wide within 2–3 days.</p>
+    </div>
+    <div class="highlight">
+      <div class="hl-icon">💝</div>
+      <h3>Gift Packaging</h3>
+      <p>Free wrapping on every order.</p>
+    </div>
+  </section>
+
+  <!-- ============ PRODUCTS ============ -->
+  <section id="products" class="products">
+    <div class="section-head">
+      <h2>Our Products</h2>
+      <p>Hand-picked favourites from our beauty collection.</p>
+    </div>
+
+    <div class="filter-buttons">
+      <button data-cat="all" class="active">All</button>
+      <button data-cat="skincare">Skincare</button>
+      <button data-cat="makeup">Makeup</button>
+      <button data-cat="fragrance">Fragrance</button>
+      <button data-cat="haircare">Haircare</button>
+      <button data-cat="accessories">Accessories</button>
+    </div>
+
+    <div class="grid" id="productGrid">
+
+      <!-- Skincare -->
+      <article class="card" data-cat="skincare">
+        <div class="thumb-wrap">
+          <span class="badge badge-best">Best Seller</span>
+          <img src="images/products/rose-cream.svg" alt="Rose Face Cream" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Skincare</span>
+          <h3>Rose Face Cream</h3>
+          <p>Soft daily moisturiser with rose extract for glowing skin.</p>
+          <div class="rating">★★★★★ <small>4.8 (24)</small></div>
+          <div class="price">LKR 2,500</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="skincare">
+        <div class="thumb-wrap">
+          <span class="badge badge-new">New</span>
+          <img src="images/products/vitamin-c-serum.svg" alt="Vitamin C Serum" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Skincare</span>
+          <h3>Vitamin C Serum</h3>
+          <p>Brightens skin tone and fights dullness for a radiant look.</p>
+          <div class="rating">★★★★★ <small>4.7 (18)</small></div>
+          <div class="price">LKR 3,100</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="skincare">
+        <div class="thumb-wrap">
+          <img src="images/products/hydrating-toner.svg" alt="Hydrating Toner" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Skincare</span>
+          <h3>Hydrating Toner</h3>
+          <p>Refreshing toner that balances and preps your skin.</p>
+          <div class="rating">★★★★★ <small>4.5 (12)</small></div>
+          <div class="price">LKR 2,200</div>
+        </div>
+      </article>
+
+      <!-- Makeup -->
+      <article class="card" data-cat="makeup">
+        <div class="thumb-wrap">
+          <span class="badge badge-best">Best Seller</span>
+          <img src="images/products/matte-lipstick.svg" alt="Matte Lipstick" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Makeup</span>
+          <h3>Matte Lipstick</h3>
+          <p>Long-lasting matte finish in deep rose. Kiss-proof.</p>
+          <div class="rating">★★★★★ <small>4.9 (56)</small></div>
+          <div class="price">LKR 1,800</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="makeup">
+        <div class="thumb-wrap">
+          <img src="images/products/eyeshadow-palette.svg" alt="Eyeshadow Palette" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Makeup</span>
+          <h3>Eyeshadow Palette</h3>
+          <p>12 warm, blendable shades for day-to-night looks.</p>
+          <div class="rating">★★★★★ <small>4.6 (31)</small></div>
+          <div class="price">LKR 2,900</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="makeup">
+        <div class="thumb-wrap">
+          <span class="badge badge-new">New</span>
+          <img src="images/products/mascara.svg" alt="Volumizing Mascara" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Makeup</span>
+          <h3>Volumizing Mascara</h3>
+          <p>Builds dramatic volume without clumps. Smudge-proof.</p>
+          <div class="rating">★★★★☆ <small>4.4 (9)</small></div>
+          <div class="price">LKR 1,950</div>
+        </div>
+      </article>
+
+      <!-- Fragrance -->
+      <article class="card" data-cat="fragrance">
+        <div class="thumb-wrap">
+          <span class="badge badge-best">Best Seller</span>
+          <img src="images/products/lavender-perfume.svg" alt="Lavender Perfume" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Fragrance</span>
+          <h3>Lavender Perfume</h3>
+          <p>Calm floral scent with notes of lavender and vanilla.</p>
+          <div class="rating">★★★★★ <small>4.8 (41)</small></div>
+          <div class="price">LKR 4,200</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="fragrance">
+        <div class="thumb-wrap">
+          <img src="images/products/jasmine-mist.svg" alt="Jasmine Mist" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Fragrance</span>
+          <h3>Jasmine Mist</h3>
+          <p>Light jasmine body mist for a fresh all-day feeling.</p>
+          <div class="rating">★★★★☆ <small>4.3 (15)</small></div>
+          <div class="price">LKR 2,300</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="fragrance">
+        <div class="thumb-wrap">
+          <span class="badge badge-sale">Sale</span>
+          <img src="images/products/citrus-splash.svg" alt="Citrus Body Splash" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Fragrance</span>
+          <h3>Citrus Body Splash</h3>
+          <p>Zesty citrus blend that wakes you up instantly.</p>
+          <div class="rating">★★★★☆ <small>4.2 (8)</small></div>
+          <div class="price">LKR 2,100</div>
+        </div>
+      </article>
+
+      <!-- Haircare -->
+      <article class="card" data-cat="haircare">
+        <div class="thumb-wrap">
+          <img src="images/products/argan-hair-oil.svg" alt="Argan Hair Oil" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Haircare</span>
+          <h3>Argan Hair Oil</h3>
+          <p>Deep-conditioning oil for silky, shiny, healthy hair.</p>
+          <div class="rating">★★★★★ <small>4.7 (22)</small></div>
+          <div class="price">LKR 2,800</div>
+        </div>
+      </article>
+
+      <article class="card" data-cat="haircare">
+        <div class="thumb-wrap">
+          <span class="badge badge-new">New</span>
+          <img src="images/products/shampoo-bar.svg" alt="Solid Shampoo Bar" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Haircare</span>
+          <h3>Solid Shampoo Bar</h3>
+          <p>Plastic-free, sulfate-free, good for hair and planet.</p>
+          <div class="rating">★★★★☆ <small>4.5 (11)</small></div>
+          <div class="price">LKR 1,200</div>
+        </div>
+      </article>
+
+      <!-- Accessories -->
+      <article class="card" data-cat="accessories">
+        <div class="thumb-wrap">
+          <img src="images/products/beauty-blender.svg" alt="Beauty Blender" loading="lazy">
+          <button class="wishlist" aria-label="Add to wishlist">♡</button>
+        </div>
+        <div class="card-body">
+          <span class="cat-tag">Accessories</span>
+          <h3>Beauty Blender</h3>
+          <p>Seamless foundation blending — streak-free finish.</p>
+          <div class="rating">★★★★☆ <small>4.4 (33)</small></div>
+          <div class="price">LKR 850</div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ============ TESTIMONIALS ============ -->
+  <section id="reviews" class="testimonials">
+    <div class="section-head">
+      <h2>What Customers Say</h2>
+      <p>Sample reviews for prototype demonstration.</p>
+    </div>
+    <div class="review-grid">
+      <blockquote class="review">
+        <div class="review-stars">★★★★★</div>
+        <p>"The rose face cream is a game changer. My skin feels so soft!"</p>
+        <footer><strong>Ayesha Perera</strong><span>Sample Review</span></footer>
+      </blockquote>
+      <blockquote class="review">
+        <div class="review-stars">★★★★★</div>
+        <p>"Beautiful packaging and the perfume lasts all day. Highly recommend!"</p>
+        <footer><strong>Dinithi Fernando</strong><span>Sample Review</span></footer>
+      </blockquote>
+      <blockquote class="review">
+        <div class="review-stars">★★★★☆</div>
+        <p>"Great quality products at reasonable prices. I keep coming back!"</p>
+        <footer><strong>Sanduni Silva</strong><span>Sample Review</span></footer>
+      </blockquote>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section id="about" class="about">
+    <div class="section-head">
+      <h2>About Glow</h2>
+    </div>
+    <p class="lead">Glow Beauty Shop is a sample prototype created to demonstrate a modern, responsive beauty shop website. Real shop details, branding, and images will be confirmed with the shop owner before public use.</p>
+    <p>Every product is chosen with care — clean ingredients, honest pricing, and beautiful packaging. This prototype was designed and built by Nethmi Thakshila as part of a four-week project management demonstration.</p>
+  </section>
+
+  <!-- ============ NEWSLETTER ============ -->
+  <section class="newsletter">
+    <div class="newsletter-inner">
+      <div>
+        <h2>Get 10% Off</h2>
+        <p>Join our list for exclusive offers and new arrivals.</p>
+      </div>
+      <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing! (Prototype - no data sent)');">
+        <input type="email" placeholder="your@email.com" required aria-label="Email address">
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- ============ CONTACT ============ -->
+  <section id="contact" class="contact">
+    <div class="section-head">
+      <h2>Get In Touch</h2>
+      <p>Contact details below are sample data for this prototype.</p>
+    </div>
+    <div class="contact-grid">
+      <div class="contact-card">
+        <div class="ci">📞</div>
+        <h3>Call Us</h3>
+        <p>+94 77 123 4567<br><small>(sample number)</small></p>
+      </div>
+      <div class="contact-card">
+        <div class="ci">✉️</div>
+        <h3>Email</h3>
+        <p>hello@glowbeauty.lk<br><small>(sample email)</small></p>
+      </div>
+      <div class="contact-card">
+        <div class="ci">📍</div>
+        <h3>Visit</h3>
+        <p>Colombo, Sri Lanka<br><small>(sample location)</small></p>
+      </div>
+      <div class="contact-card">
+        <div class="ci">💬</div>
+        <h3>WhatsApp</h3>
+        <p><a href="https://wa.me/94771234567?text=Hi%20Glow%20Beauty!" target="_blank" rel="noopener">Chat with us</a><br><small>(sample link)</small></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>Glow 🌸</h3>
+        <p>Beauty essentials made for you.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <a href="#products">Products</a>
+        <a href="#about">About</a>
+        <a href="#reviews">Reviews</a>
+      </div>
+      <div>
+        <h4>Follow</h4>
+        <a href="#" aria-label="Instagram">Instagram</a>
+        <a href="#" aria-label="Facebook">Facebook</a>
+        <a href="#" aria-label="TikTok">TikTok</a>
+      </div>
+    </div>
+    <p class="footer-copy">© 2025 Glow Beauty Shop — Sample Prototype by Nethmi Thakshila</p>
+  </footer>
+
+  <!-- ============ FLOATING WHATSAPP ============ -->
+  <a href="https://wa.me/94771234567?text=Hi%20Glow%20Beauty!" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">💬</a>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+﻿PROJECT CHARTER
+Beauty & Cosmetics Shop Website Development
+
+Prepared by   : Nethmi Thakshila
+Role          : Project Manager / Project Lead
+Date          : Week 1
+Version       : 1.0
+Status        : Active
+
+CONTENTS
+  1. Project Purpose
+  2. Project Objectives
+  3. High-Level Scope
+  4. Key Deliverables
+  5. Milestones
+  6. Stakeholders
+  7. Success Criteria
+  8. Assumptions and Constraints
+  9. Approval
+
+1. PROJECT PURPOSE
+
+   To design and develop a responsive website prototype for a
+   beauty and cosmetics shop, and to demonstrate practical
+   project management skills through independently managing the
+   complete project lifecycle.
+
+2. PROJECT OBJECTIVES
+
+   2.1  Understand the business requirements of a beauty and
+        cosmetics shop.
+   2.2  Identify stakeholders and target customers.
+   2.3  Gather and document website requirements.
+   2.4  Define project scope, objectives and deliverables.
+   2.5  Develop a realistic four-week project schedule.
+   2.6  Identify and manage potential project risks.
+   2.7  Design and develop a responsive website prototype.
+   2.8  Monitor project progress against the planned schedule.
+   2.9  Conduct website testing and quality evaluation.
+   2.10 Complete project documentation and final evaluation.
+
+3. HIGH-LEVEL SCOPE
+
+   In scope:
+     - Homepage with navigation, hero, featured products
+     - Product catalogue with categories
+     - About section
+     - Contact section
+     - Responsive design (desktop, tablet, mobile)
+
+   Out of scope (initial four-week project):
+     - Online payment gateway
+     - Customer registration and login
+     - Admin dashboard
+     - Delivery tracking
+     - Automated order management
+
+4. KEY DELIVERABLES
+
+   - Responsive website prototype
+   - Complete project management documentation
+   - GitHub repository (source and documentation)
+   - Test plan and test report
+   - Final presentation
+   - Project closure report
+
+5. MILESTONES
+
+   M1  Project Initiation Completed            End of Week 1
+   M2  Requirements and Planning Completed     End of Week 2
+   M3  Website Prototype Completed             End of Week 3
+   M4  Testing and Project Closure Completed   End of Week 4
+
+6. STAKEHOLDERS
+
+   S1  Nethmi Thakshila        Project Manager / Developer (Confirmed)
+   S2  Shop Owner              Kasun
+   S3  Potential Customers     End users 
+   S4  Website Visitors        Explore products 
+   S5  Academic Reviewer       Documentation review 
+
+7. SUCCESS CRITERIA
+
+   - All project objectives evaluated
+   - Agreed scope implemented or gaps documented
+   - Website tested (functional and responsive)
+   - Risks and changes documented
+   - All project management documents completed
+   - Final prototype demonstrable
+   - GitHub repository organised
+
+8. ASSUMPTIONS AND CONSTRAINTS
+
+   Assumptions:
+     - Student portfolio project, no external funding
+     - Free tools used throughout
+     - Shop information will be confirmed or marked TBD
+     - Project Manager is also the developer
+
+   Constraints:
+     - Fixed four-week timeline
+     - Single-person team
+     - No paid services
+
+9. APPROVAL
+
+   Prepared by   : Nethmi Thakshila
+   Role          : Project Manager / Project Lead
+   Signature     : _________________________
+   Date          : Week 1

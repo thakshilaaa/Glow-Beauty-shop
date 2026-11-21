@@ -1,0 +1,73 @@
+﻿BUSINESS CASE
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 1
+Version       : 1.0
+
+CONTENTS
+  1. Background
+  2. Problem Statement
+  3. Proposed Solution
+  4. Expected Benefits
+  5. Cost Summary
+  6. Risk Summary
+  7. Recommendation
+
+1. BACKGROUND
+
+   The beauty and cosmetics industry increasingly relies on
+   digital platforms to reach customers, promote products and
+   build brand trust. Many small shops still rely only on
+   physical stores or social media posts, which limits
+   discoverability and structured product browsing.
+
+2. PROBLEM STATEMENT
+
+   The shop currently has no dedicated website. Customers
+   cannot easily:
+     - Browse products by category
+     - View descriptions and indicative prices in one place
+     - Access contact details and location quickly
+     - Use the shop conveniently on mobile devices
+
+3. PROPOSED SOLUTION
+
+   Build a simple, responsive website prototype that:
+     - Introduces the shop and brand
+     - Displays products by category with images, names,
+       descriptions and prices
+     - Provides About and Contact sections
+     - Works on desktop, tablet and mobile
+
+4. EXPECTED BENEFITS
+
+   - Improved online presence and professionalism
+   - Easier product discovery for customers
+   - Central point for contact details and social media
+   - Foundation for future e-commerce features
+   - Practical portfolio evidence of project management skill
+
+5. COST SUMMARY
+
+   Estimated cost   : LKR 500 (small reserve)
+   Actual cost      : LKR 0
+
+   All tools used are free: HTML/CSS/JavaScript, VS Code,
+   Git, GitHub, Figma free plan.
+
+6. RISK SUMMARY
+
+   Key risks:
+     - Delayed shop information (R01)
+     - Unapproved branding and images (R03)
+     - Scope expansion (R04)
+     - Timeline slippage (R08)
+
+   Full details in docs/08-Risk-Register.txt.
+
+7. RECOMMENDATION
+
+   Proceed with the four-week website prototype project using
+   an Agile-inspired approach. Focus on delivering a working,
+   tested prototype rather than a full e-commerce platform.

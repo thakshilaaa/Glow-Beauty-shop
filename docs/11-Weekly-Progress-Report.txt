@@ -1,0 +1,174 @@
+﻿WEEKLY PROGRESS REPORT
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : End of Week 3 (updated Week 4)
+Version       : 1.1
+
+WEEK 1 - INITIATION AND REQUIREMENTS
+
+   Status: COMPLETED
+
+   Planned vs Actual
+
+   Task                                   Planned   Actual    Notes
+   Define project objectives              Yes       Done      In Charter
+   Identify stakeholders                  Yes       Done      Shop owner TBD
+   Gather shop information                Yes       Partial   Placeholder data used
+   Draft Project Charter                  Yes       Done      docs/01
+   Draft Business Case                    Yes       Done      docs/02
+   Prepare Stakeholder Register           Yes       Done      docs/03
+   Prepare Requirements Document          Yes       Done      docs/04
+   Prepare Scope Statement                Yes       Done      docs/05
+   Set up GitHub repository               Yes       Done      beauty-cosmetics-shop-website
+   Create initial README                  Yes       Done      README.txt
+   Create folder structure                Yes       Done      css / js / images / docs
+
+   Achievements
+     - All Week 1 initiation documents completed.
+     - GitHub repository created with organised structure.
+     - Project objectives, scope and stakeholder list established.
+     - 12 sample products defined for the catalogue.
+
+   Issues and Risks
+     - Shop-specific information not yet confirmed (R01 open).
+     - No product photography (R02 open, mitigated with
+       generated placeholder images).
+
+   Decisions
+     - Proceed with clearly labelled SAMPLE content.
+     - Documentation stored as plain text files.
+
+   Next Week Plan
+     - Finalise requirements, WBS, schedule and risk register.
+     - Prepare budget, communication plan and wireframes.
+
+WEEK 2 - PLANNING AND UI/UX DESIGN
+
+   Status: COMPLETED
+
+   Planned vs Actual
+
+   Task                                   Planned   Actual    Notes
+   Finalise requirements                  Yes       Done      FR/NFR/BR
+   Prepare WBS                            Yes       Done      docs/06
+   Develop schedule and Gantt             Yes       Done      docs/07
+   Prepare Risk Register                  Yes       Done      docs/08
+   Prepare Budget Plan                    Yes       Done      docs/09
+   Prepare Communication Plan             Yes       Done      docs/10
+   Prepare Test Plan                      Yes       Done      docs/12
+   Design wireframes in Figma             Yes       Partial   Coded directly
+   Finalise technical approach            Yes       Done      HTML, CSS, JS
+
+   Achievements
+     - Full planning documentation completed.
+     - Risk register includes 10 risks with mitigations.
+     - Schedule covers four weeks with dependencies and
+       milestones.
+     - Technical stack finalised.
+
+   Issues and Risks
+     - Wireframes not produced in Figma as originally planned
+       (deviation documented honestly).
+     - R04 scope risk remains high.
+
+   Decisions
+     - Use lightweight, framework-free front-end.
+     - Skip formal Figma deliverables to protect timeline.
+     - Deploy via GitHub Pages.
+
+   Next Week Plan
+     - Develop homepage, catalogue, about and contact.
+     - Add responsive CSS and JavaScript filter.
+
+WEEK 3 - EXECUTION AND MONITORING
+
+   Status: COMPLETED
+
+   Planned vs Actual
+
+   Task                                   Planned   Actual    Notes
+   Environment and Git setup              Yes       Done      git init, remote
+   Homepage development                   Yes       Done      index.html
+   Product catalogue                      Yes       Done      12 products, 5 categories
+   About and Contact sections             Yes       Done      Sample data
+   Responsive CSS                         Yes       Done      Breakpoints at 900px, 600px
+   JavaScript category filter             Yes       Done      js/script.js
+   Product images                         Yes       Done      12 SVG images generated
+   Shop Highlights section                Bonus     Done      Added
+   Customer testimonials                  Bonus     Done      3 sample reviews
+   Newsletter signup                      Bonus     Done      Front-end only
+   Floating WhatsApp button               Bonus     Done      Sticky button
+   Wishlist hearts                        Bonus     Done      Toggle on click
+   Update risk register                   Yes       Done      See docs/08
+   Commit to GitHub                       Yes       Done      Recorded
+
+   Achievements
+     - Working responsive website prototype completed ahead
+       of milestone M3.
+     - 12 sample products across 5 categories.
+     - 12 product images generated as SVG placeholders.
+     - Homepage redesigned with hero, highlights, testimonials,
+       newsletter, contact grid, footer, WhatsApp float.
+     - Product cards enhanced with badges, ratings and wishlist.
+     - Category filter tested and working.
+     - Responsive behaviour verified at 375px, 768px, 1920px.
+     - All code and documentation committed to GitHub.
+
+   Issues and Risks
+     - R01 shop info still open.
+     - R02 images closed (SVG placeholders).
+     - R03 branding still open.
+     - R04 scope monitoring, bonus features logged.
+     - R07 responsive closed, no issues.
+
+   Change Log Summary
+     C-01 to C-06 approved (see docs/08).
+
+   Decisions
+     - Bonus features kept because they improve demo value
+       without affecting milestones.
+     - Sample data clearly labelled in the UI.
+
+   Next Week Plan
+     - Run tests per docs/12-Test-Plan.txt.
+     - Fill in docs/13-Test-Report.txt.
+     - Deploy to GitHub Pages.
+     - Complete closure report and lessons learned.
+     - Prepare final presentation.
+
+WEEK 4 - TESTING, EVALUATION AND CLOSURE
+
+   Status: COMPLETED
+
+   Planned vs Actual
+
+   Task                                   Planned   Actual    Notes
+   Functional testing                     Yes       Done      17/17 pass
+   Responsive testing                     Yes       Done      Chrome, Edge, Firefox
+   Usability review                       Yes       Done      No critical issues
+   Bug fixing                             Yes       Done      No critical bugs found
+   Automated test script                  Yes       Done      test-website.ps1
+   Fill Test Report                       Yes       Done      docs/13
+   Complete Closure Report                Yes       Done      docs/14
+   Complete Lessons Learned               Yes       Done      docs/15
+   Final presentation outline             Yes       Done      docs/16
+   Deploy to GitHub Pages                 Yes       Done      Live URL available
+
+   Achievements
+     - 100 percent test pass rate on automated test suite.
+     - All 15 project management documents finalised.
+     - Project formally closed.
+     - Live demonstration URL available.
+
+OVERALL STATUS SUMMARY
+
+   Week 1   COMPLETED
+   Week 2   COMPLETED
+   Week 3   COMPLETED
+   Week 4   COMPLETED
+
+   Open risks      : R01, R03 (depend on shop owner)
+   Monitoring      : R04, R10
+   Overall status  : Project CLOSED
+   Prepared by     : Nethmi Thakshila

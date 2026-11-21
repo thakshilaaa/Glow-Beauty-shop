@@ -1,0 +1,63 @@
+﻿REQUIREMENTS DOCUMENT (INITIAL)
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 1
+Version       : 1.0
+
+Priority scheme: MoSCoW (Must / Should / Could / Won't)
+
+CONTENTS
+  1. Business Requirements
+  2. Functional Requirements
+  3. Non-Functional Requirements
+  4. Content Requirements
+  5. Assumptions
+
+1. BUSINESS REQUIREMENTS
+
+   BR-01  Provide a professional online presence for the shop.      Must
+   BR-02  Showcase products by category with descriptive info.      Must
+   BR-03  Make contact details easy to find.                        Must
+   BR-04  Support mobile and tablet visitors.                       Must
+   BR-05  Allow future expansion to e-commerce features.            Could
+
+2. FUNCTIONAL REQUIREMENTS
+
+   FR-01  Homepage with shop introduction and navigation menu.      Must
+   FR-02  Promotional banner or hero section.                       Must
+   FR-03  Featured products section.                                Must
+   FR-04  Product catalogue grouped by category.                    Must
+   FR-05  Each product shows image, name, description and price.    Must
+   FR-06  Category filter buttons.                                  Should
+   FR-07  About section with shop introduction.                     Must
+   FR-08  Contact section with phone, email, location, social.      Must
+   FR-09  WhatsApp inquiry link (pending approval).                 Could
+   FR-10  Footer with copyright and basic info.                     Must
+
+3. NON-FUNCTIONAL REQUIREMENTS
+
+   NFR-01  Responsive on desktop, tablet and mobile.                Must
+   NFR-02  Page loads quickly on common connections.                Must
+   NFR-03  Clear, readable typography and colour contrast.          Must
+   NFR-04  Consistent visual style across all sections.             Must
+   NFR-05  Accessible: alt text, semantic HTML, keyboard nav.       Should
+   NFR-06  Cross-browser: Chrome, Edge, Firefox, Safari.            Must
+   NFR-07  Maintainable: organised folder structure.                Should
+
+4. CONTENT REQUIREMENTS (TO BE CONFIRMED)
+
+   - Shop name, logo, branding
+   - Product categories and product details
+   - Product images
+   - Contact info (phone, email, location)
+   - Social media links
+
+   Note: any unverified content uses placeholder text or images
+   and is clearly marked as SAMPLE.
+
+5. ASSUMPTIONS
+
+   - Shop information will be provided or confirmed in Week 1-2.
+   - Products can be displayed without online payment.
+   - All development tools are available free of charge.

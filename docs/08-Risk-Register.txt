@@ -1,0 +1,44 @@
+﻿RISK REGISTER
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 2 (updated Week 3)
+Version       : 1.1
+
+Legend
+
+   Probability  Low / Medium / High
+   Impact       Low / Medium / High
+   Priority     Probability x Impact  ->  Low / Medium / High / Critical
+   Status       Open / Monitoring / Closed
+
+RISKS
+
+   ID    Risk                                 Prob    Impact  Priority  Mitigation                                                        Status
+   R01   Shop information is delayed          High    High    High      Use TBD or sample content, chase politely, proceed with generic   Open
+   R02   Product images unavailable           Medium  High    Medium    Use placeholder icons or generated images, swap later             Closed
+   R03   Branding or logo not approved        Medium  Medium  Medium    Use Glow placeholder brand until confirmed                        Open
+   R04   Scope expansion                      High    High    High      Reinforce out-of-scope list, log new requests in change log       Monitoring
+   R05   Development delays                   Medium  Medium  Medium    Break tasks small, commit daily, work to schedule                 Closed
+   R06   Technical problems                   Low     High    Medium    Test across browsers, keep code simple                            Closed
+   R07   Responsive layout issues             Medium  Medium  Medium    Use CSS Grid and flexbox, mobile-first testing                    Closed
+   R08   Timeline slippage                    Medium  High    High      Prioritise MVP, cut optional items before critical ones           Closed
+   R09   Data loss                            Low     High    Medium    Use Git and GitHub remote after every milestone                   Closed
+   R10   Accessibility gaps                   Medium  Medium  Medium    Semantic HTML, alt text, colour contrast                          Monitoring
+
+CHANGE LOG
+
+   ID      Date      Description                                  Status
+   C-01    Week 3    Added Shop Highlights section                Approved
+   C-02    Week 3    Added Customer Testimonials section          Approved
+   C-03    Week 3    Added Newsletter signup (front-end only)     Approved
+   C-04    Week 3    Added floating WhatsApp button               Approved
+   C-05    Week 3    Added wishlist heart toggle                  Approved
+   C-06    Week 3    Skipped Figma wireframes, coded directly     Documented
+
+UPDATE HISTORY
+
+   Week 1   Initial register created
+   Week 2   Review and priority check
+   Week 3   Updated during execution, R02 R05 R06 R07 closed
+   Week 4   Final status review before closure

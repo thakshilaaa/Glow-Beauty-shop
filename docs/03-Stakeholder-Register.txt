@@ -1,0 +1,41 @@
+﻿STAKEHOLDER REGISTER
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 1
+Version       : 1.0
+
+Legend
+
+   Interest    Low / Medium / High
+   Influence   Low / Medium / High
+   Status      Confirmed / Pending / Optional
+
+STAKEHOLDERS
+
+   ID   Name / Group           Role                         Interest  Influence  Status
+   S1   Nethmi Thakshila       Project Manager / Developer  High      High       Confirmed
+   S2   Shop Owner (TBD)       Business requirements,       High      High       Pending
+                               brand, product data
+   S3   Potential Customers    End users browsing products  High      Medium     N/A
+   S4   Website Visitors       Explore products, contact    High      Low        N/A
+   S5   Academic Reviewer      Documentation review         Medium    Medium     Optional
+
+ENGAGEMENT APPROACH
+
+   S1  Full ownership of delivery, schedule, risks and
+       documentation.
+   S2  Approach with a clear information request; confirm
+       branding, product details, images and contact
+       information before public use.
+   S3  Represent their needs through requirements and
+       usability checks.
+   S4  Ensure navigation, readability and mobile usability.
+   S5  Provide organised, complete documentation and a demo.
+
+NOTES
+
+   - Stakeholder participation must be confirmed before being
+     recorded as actual. Unconfirmed items are marked Pending.
+   - Any shop-specific content used before approval is clearly
+     labelled as SAMPLE.

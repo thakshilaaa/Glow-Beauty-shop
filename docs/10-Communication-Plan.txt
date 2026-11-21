@@ -1,0 +1,51 @@
+﻿COMMUNICATION PLAN
+Beauty & Cosmetics Shop Website
+
+Prepared by   : Nethmi Thakshila
+Date          : Week 2
+Version       : 1.0
+
+CONTENTS
+  1. Purpose
+  2. Communication Matrix
+  3. Record Keeping
+  4. Reporting Cadence
+  5. Escalation
+
+1. PURPOSE
+
+   Define how project information, decisions and feedback will
+   be recorded and shared throughout the four-week project.
+
+2. COMMUNICATION MATRIX
+
+   Audience               Information               Channel              Frequency    Owner
+   Project Manager        Progress, risks, decisions GitHub commits       Daily        Nethmi
+   Shop Owner (TBD)       Information requests,      Email / phone / chat As needed    Nethmi
+                          approvals
+   Academic Reviewer      Documentation, demo        GitHub / presentation End of week Nethmi
+   Website Visitors       Website content, contact   Website              Continuous   Nethmi
+
+3. RECORD KEEPING
+
+   - All decisions recorded in Weekly Progress Report or a
+     dedicated decisions section.
+   - All scope changes recorded in the Change Log (see
+     docs/08-Risk-Register.txt).
+   - All progress updates committed to GitHub.
+   - Weekly progress report updated every week.
+
+4. REPORTING CADENCE
+
+   Week 1   Initiation summary
+   Week 2   Planning and design summary
+   Week 3   Execution summary, risks and issues
+   Week 4   Testing results, evaluation and closure
+
+5. ESCALATION
+
+   - Issues that affect timeline or scope are raised
+     immediately.
+   - Any change that adds a new feature is logged as a change
+     request and evaluated against the current schedule before
+     being accepted.
